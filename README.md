@@ -7,7 +7,7 @@ Welcome to my digital crib! I’m a 16-year-old coding wizard-in-training from I
 ## About Me
 
 - 🧠 Introvert with a creative spark — thinking deeply, spitting original vibes.  
-- 💻 Passionate about programming: C#, C++, Python, and all the geeky stuff.  
+- 💻 Passionate about programming: C, C#, C++, Python, and all the geeky stuff.  
 - 🎮 Minecraft modder & community builder — I run **CreateMastery**, a Minecraft modding hub focused on the “Create” mod.  
 - 🚀 Dreaming big: building cool projects like a custom OS called **SuperCool OS** and even cooking up a game with my squad **Parallex**.  
 - 🤓 Always leveling up my skills and trying new tech challenges.  
@@ -17,7 +17,7 @@ Welcome to my digital crib! I’m a 16-year-old coding wizard-in-training from I
 
 ## Skills & Tools
 
-- Languages: C#, C++, Python, JavaScript, HTML/CSS  
+- Languages: C, C#, C++, Python, JavaScript, HTML/CSS  
 - IDE: **Neovim** — my one and only editor, 'cause real pros don’t need fancy GUIs 😎  
 - Game dev: Unity basics + modding Minecraft (Create mod gang!)  
 - OS customization & hacking vibes 🔥

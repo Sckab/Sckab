@@ -28,7 +28,7 @@ Welcome to my digital crib! I’m a 16-year-old coding wizard-in-training from I
 
 - Becoming an expert programmer, leveling up my skills every day  
 - SuperCool OS: a custom operating system with Windows app support (because why not?)  
-- Parallex Team: making an indie game called **Nexus: Code of Steel**  
+- Parallex Team: making an indie game called **Nexus: Code Steel**  
 - CreateMastery community + modpack **Create 3.0**
 
 ---

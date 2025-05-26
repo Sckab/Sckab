@@ -1,4 +1,4 @@
-# Hey, I’m Giuliano 👋
+# Hey, I’m Sckab 👋
 
 Welcome to my digital crib! I’m a 16-year-old coding wizard-in-training from Italy, living life one freestyle at a time. 🎤✨
 
@@ -47,4 +47,4 @@ Let’s build, code, and have fun.
 ---
 
 Peace out ✌️  
-Giuliano
+Sckab

@@ -1,50 +1,14 @@
-# Hey, I’m Sckab 👋
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sckab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sckab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sckab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Welcome to my digital crib! I’m a 16-year-old coding wizard-in-training from Italy, living life one freestyle at a time. 🎤✨
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sckab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## About Me
-
-- 🧠 Introvert with a creative spark — thinking deeply, spitting original vibes.  
-- 💻 Passionate about programming: C, C#, C++, Python, and all the geeky stuff.  
-- 🎮 Minecraft modder & community builder — I run **CreateMastery**, a Minecraft modding hub focused on the “Create” mod.  
-- 🚀 Dreaming big: building cool projects like a custom OS called **SuperCool OS** and even cooking up a game with my squad **Parallex**.  
-- 🤓 Always leveling up my skills and trying new tech challenges.  
-- 😎 Lowkey funny and always ready to throw a silly joke your way.
-
----
-
-## Skills & Tools
-
-- Languages: C, C#, C++, Python, JavaScript, HTML/CSS  
-- IDE: **Neovim** — my one and only editor, 'cause real pros don’t need fancy GUIs 😎  
-- Game dev: Unity basics + modding Minecraft (Create mod gang!)  
-- OS customization & hacking vibes 🔥
-
----
-
-## What I’m working on
-
-- Becoming an expert programmer, leveling up my skills every day  
-- SuperCool OS: a custom operating system with Windows app support (because why not?)  
-- Parallex Team: making an indie game called **Nexus: Code Steel**  
-- CreateMastery community + modpack **Create 3.0**
-
----
-
-## Fun fact
-
-I’m kinda shy IRL but on the mic? Freestyling like a boss 🎤🔥
-
----
-
-## Wanna connect?
-
-Hit me up on GitHub or drop a line!  
-Let’s build, code, and have fun.
-
----
-
-Peace out ✌️  
-Sckab
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

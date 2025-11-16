@@ -1,18 +1,59 @@
-# ⚙️ Setup: 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-121212?style=for-the-badge&logo=zsh&logoColor=white) ![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnometerminal&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=58E1FF)
+# ⚙️ Setup:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align=center>
+  <img src="https://cdn.simpleicons.org/archlinux" width="50">
+  <img src="https://cdn.simpleicons.org/neovim" width="50">
+  <img src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty.svg" width="50">
+  <img src="https://cdn.simpleicons.org/zsh" width="50">
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sckab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sckab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sckab&hide=makefile&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔧 Core Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align=center>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="50">
+  <img src="https://cdn.simpleicons.org/c" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sckab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌐 Web Stack
+
+<div align=center>
+  <img src="https://cdn.simpleicons.org/html5" width="50">
+  <img src="https://cdn.simpleicons.org/css" width="50">
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="50">
+  <img src="https://cdn.simpleicons.org/javascript" width="50">
+  <img src="https://cdn.simpleicons.org/typescript" width="50">
+  <img src="https://cdn.simpleicons.org/astro" width="50">
+</div>
+
+## 🧪 Tooling/Devops
+
+<div align=center>
+  <img src="https://cdn.simpleicons.org/git" width="50">
+  <img src="https://cdn.simpleicons.org/markdown" width="50">
+  <img src="https://cdn.simpleicons.org/gnubash" width="50">
+</div>
+
+## 🧠 Extra
+
+<div align=center>
+  <img src="https://cdn.simpleicons.org/python" width="50">
+  <img src="https://cdn.simpleicons.org/go" width="50">
+</div>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sckab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sckab&theme=github-dark-blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sckab&hide=makefile&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+
+<div align=center>
+  
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Sckab&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sckab&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

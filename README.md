@@ -1,4 +1,4 @@
-# ⚙️ Setup:
+# ⚙️ Setup
 
 <div align=center>
   <img src="https://cdn.simpleicons.org/archlinux" width="50">

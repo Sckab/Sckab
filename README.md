@@ -28,6 +28,11 @@
   <img src="https://skillicons.dev/icons?i=py,go">
 </div>
 
+## 🔥 My Best Projects
+
+[![](https://img.shields.io/badge/DINFO-76946a?style=for-the-badge&logo=dotnet&logoColor=181616)](https://github.com/SCSDC-co/DINFO)
+[![](https://img.shields.io/badge/FIMA_\(WIP\)-76946a?style=for-the-badge&logo=cplusplus&logoColor=181616)](https://github.com/SCSDC-co/FIMA)
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Sckab&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

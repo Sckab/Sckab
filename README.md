@@ -1,44 +1,31 @@
 # ⚙️ Setup
 
 <div align=center>
-  <img src="https://cdn.simpleicons.org/archlinux" width="50">
-  <img src="https://cdn.simpleicons.org/neovim" width="50">
-  <img src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty.svg" width="50">
-  <img src="https://cdn.simpleicons.org/zsh" width="50">
+  <img src="https://skillicons.dev/icons?i=arch,neovim">
 </div>
 
 ## 🔧 Core Stack
 
 <div align=center>
-  <img src="https://cdn.simpleicons.org/cplusplus" width="50">
-  <img src="https://cdn.simpleicons.org/c" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" height="50">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs">
 </div>
 
 ## 🌐 Web Stack
 
 <div align=center>
-  <img src="https://cdn.simpleicons.org/html5" width="50">
-  <img src="https://cdn.simpleicons.org/css" width="50">
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="50">
-  <img src="https://cdn.simpleicons.org/javascript" width="50">
-  <img src="https://cdn.simpleicons.org/typescript" width="50">
-  <img src="https://cdn.simpleicons.org/astro" width="50">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,astro">
 </div>
 
 ## 🧪 Tooling/Devops
 
 <div align=center>
-  <img src="https://cdn.simpleicons.org/git" width="50">
-  <img src="https://cdn.simpleicons.org/markdown" width="50">
-  <img src="https://cdn.simpleicons.org/gnubash" width="50">
+  <img src="https://skillicons.dev/icons?i=git,md,bash">
 </div>
 
 ## 🧠 Extra
 
 <div align=center>
-  <img src="https://cdn.simpleicons.org/python" width="50">
-  <img src="https://cdn.simpleicons.org/go" width="50">
+  <img src="https://skillicons.dev/icons?i=py,go">
 </div>
 
 ## 📊 GitHub Stats

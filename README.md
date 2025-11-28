@@ -25,13 +25,13 @@
 ## 🧠 Extra
 
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=py,go">
+  <img src="https://skillicons.dev/icons?i=py,go,lua">
 </div>
 
 ## 🔥 My Best Projects
 
-[![](https://img.shields.io/badge/DINFO-76946a?style=for-the-badge&logo=dotnet&logoColor=181616)](https://github.com/SCSDC-co/DINFO)
-[![](https://img.shields.io/badge/FIMA_\(WIP\)-76946a?style=for-the-badge&logo=cplusplus&logoColor=181616)](https://github.com/SCSDC-co/FIMA)
+- [DINFO](https://github.com/SCSDC-co/DINFO)
+- [FIMA (WIP)](https://github.com/SCSDC-co/FIMA)
 
 ## 📊 GitHub Stats
 
